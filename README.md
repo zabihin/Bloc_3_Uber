@@ -1,5 +1,5 @@
 
-#Detecting Uber pickups hotspots in NY
+## Detecting Uber pickups hotspots in NY
 
 Goals 
 
